@@ -349,7 +349,6 @@ def pdf():
 #                      mimetype="application/pdf")
 
 # ---------------- RUN ----------------
-if __name__ == "__main__":
 
 import os
 
